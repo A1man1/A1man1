@@ -24,10 +24,9 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://fastapi.tiangolo.com" target="_blank"> <img align="left" alt="fast API" width="26px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/> </a>
-<a href="https://www.djangoproject.com" target="_blank"> <img align="left" alt="django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongo" width="26px" src="https://stackshare.io/mongodb"/></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongo" width="26px" src="https://stackshare.io/mongodb"/></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"> <img align="left" alt="fast API" width="40px" height="45" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/> </a>
+<a href="https://www.djangoproject.com" target="_blank"> <img align="left" alt="django" width="40px" height="45" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongo" width="40px" height="40" src="https://stackshare.io/mongodb"/></a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
