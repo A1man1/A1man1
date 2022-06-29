@@ -1,8 +1,6 @@
-
-
+<p style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBppz9rA8QB2PnnMb65JYFO8xoFjW2tGNGzg&usqp=CAU');"> 
 ## Heyyo, I'm <a href="http://bit.ly/3uN47lh" target="_blank">Aman</a>!
 (Use dark theme to find my socials ;)
-
 <a href="http://github.com/A1man1" target="_blank"><img align="left" alt="Aman.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="http://bit.ly/3uN47lh" target="_blank"><img align="left" alt="Aman B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aman B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
