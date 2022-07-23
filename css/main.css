@@ -5080,6 +5080,12 @@ Created using IcoMoon - icomoon.io
 .gallery figure.cc-effect .h4 {
   transform: scale(1.06, 1.06); }
 
+
+.fa_custom {
+    color: #0099CC;
+}
+    
+
 .gallery figure.cc-effect img,
 .gallery figure.cc-effect figcaption::before,
 .gallery figure.cc-effect figcaption::after,
