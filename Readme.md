@@ -29,7 +29,8 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="Google cloud platform" width="26px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" />
+<img align="left" alt="AWS Lamdba" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" />
 <br />
 <br />
 
