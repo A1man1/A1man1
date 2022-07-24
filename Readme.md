@@ -1,7 +1,7 @@
 <p style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBppz9rA8QB2PnnMb65JYFO8xoFjW2tGNGzg&usqp=CAU');"> 
 ## Heyyo, I'm <a href="http://bit.ly/3uN47lh" target="_blank">Aman</a>!
 (Use dark theme to find my socials ;)
-<a href="http://github.com/A1man1" target="_blank"><img align="left" alt="Aman.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://a1man1.github.io/A1man1/" target="_blank"><img align="left" alt="Aman.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="http://bit.ly/3uN47lh" target="_blank"><img align="left" alt="Aman B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <br />
 <br />
@@ -29,10 +29,6 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
 
 <br />
 <br />
