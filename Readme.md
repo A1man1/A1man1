@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A1man1/assets/main/banner.png" width="100%" height="180px" style="border-radius:10px;object-fit:cover;" alt="Aman Banner"/>
+  <img src="https://picsum.photos/1200/300" width="100%" height="180px" style="border-radius:10px;object-fit:cover;" alt="Aman Banner"/>
 </p>
 
 <!-- Intro Section -->
