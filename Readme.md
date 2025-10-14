@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://picsum.photos/1200/300" width="100%" height="180px" style="border-radius:10px;object-fit:cover;" alt="Aman Banner"/>
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1200&q=80" width="100%" height="180px" style="border-radius:10px;object-fit:cover;" alt="Aman Banner"/>
 </p>
 
 <!-- Intro Section -->
