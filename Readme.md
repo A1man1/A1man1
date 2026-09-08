@@ -148,7 +148,3 @@ Scalable design patterns, done right. I build with Python (Django, FastAPI), Jav
 ```bash
 aman@dev-box ~ % echo "while (age++ < life.length): ++knowledge; ++experience; --ego; debug(failures)"
 ```
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%"/>
-</p>
