@@ -1,16 +1,16 @@
-<!-- macOS-style gradient banner -->
+<!-- Dark / NVIDIA-green developer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2B64,100:0071E3&height=200&section=header&text=Aman%20Sharma&fontSize=48&fontColor=F5F5F7&fontAlignY=40&desc=Backend%20%26%20Data%20Engineer%20%7C%20LLM%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aman Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1F00&height=200&section=header&text=Aman%20Sharma&fontSize=48&fontColor=76B900&fontAlignY=40&desc=Backend%20%26%20Data%20Engineer%20%7C%20LLM%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aman Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=18&pause=1000&color=0071E3&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+5%2B+Years+Experience;RAG+Data+Platforms+%7C+Semantic+Search+Optimization;LLM+Indexing+%26+Retrieval+Pipelines;Fine-Tuning+(PEFT%2C+LoRA%2C+QLoRA);Kafka+Processing+2M%2B+Events%2FDay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=76B900&background=00000000&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+5%2B+Years+Experience;RAG+Data+Platforms+%7C+Semantic+Search+Optimization;LLM+Indexing+%26+Retrieval+Pipelines;Fine-Tuning+(PEFT%2C+LoRA%2C+QLoRA);Kafka+Processing+2M%2B+Events%2FDay" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://bit.ly/3uN47lh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-F5F5F7?style=flat-square&logo=linkedin&logoColor=0071E3" /></a>
-  <a href="https://github.com/A1man1" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-F5F5F7?style=flat-square&logo=github&logoColor=1D1D1F" /></a>
-  <a href="https://a1man1.github.io/A1man1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-F5F5F7?style=flat-square&logo=safari&logoColor=0071E3" /></a>
+  <a href="https://bit.ly/3uN47lh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-76B900?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" /></a>
+  <a href="https://github.com/A1man1" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-76B900?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" /></a>
+  <a href="https://a1man1.github.io/A1man1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-76B900?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000" /></a>
 </p>
 
 <p align="center"><sub><i>💡 Use dark mode to discover my hidden socials 😉</i></sub></p>
@@ -19,11 +19,10 @@
 
 ### 🖥️ whoami
 
-<!-- macOS Terminal window mockup -->
-<p align="center"><b>🔴 🟡 🟢 &nbsp; aman@macbook-pro — zsh</b></p>
+<p align="center"><b>🔴 🟡 🟢 &nbsp; aman@dev-box — zsh</b></p>
 
 ```bash
-aman@macbook-pro ~ % whoami --verbose
+aman@dev-box ~ % whoami --verbose
 ```
 ```yaml
 OS:              Backend & Data Engineer
@@ -89,7 +88,7 @@ Scalable design patterns, done right. I build with Python (Django, FastAPI), Jav
 
 ---
 
-### 🧰 Tech Stack — Dock
+### 🧰 Tech Stack
 
 <div align="center">
 
@@ -138,22 +137,22 @@ Scalable design patterns, done right. I build with Python (Django, FastAPI), Jav
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A1man1&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1man1&layout=compact&theme=graywhite&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A1man1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=76B900&icon_color=76B900&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1man1&layout=compact&hide_border=true&bg_color=0D1117&title_color=76B900&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=A1man1&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=A1man1&hide_border=true&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6E7681" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center"><b>🔴 🟡 🟢 &nbsp; aman@macbook-pro — zsh</b></p>
+<p align="center"><b>🔴 🟡 🟢 &nbsp; aman@dev-box — zsh</b></p>
 
 ```bash
-aman@macbook-pro ~ % echo "while (age++ < life.length): ++knowledge; ++experience; --ego; debug(failures)"
+aman@dev-box ~ % echo "while (age++ < life.length): ++knowledge; ++experience; --ego; debug(failures)"
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:1D2B64&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F00,100:000000&height=100&section=footer" width="100%"/>
 </p>
