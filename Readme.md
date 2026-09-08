@@ -7,7 +7,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Aman Developer Banner"/>
+  <img src="images/hero.svg" width="100%" alt="Aman Developer Banner"/>
 </p>
 
 <br/>
