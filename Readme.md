@@ -3,7 +3,7 @@
 <!-- No NVIDIA branding — only a dark neon-green visual theme. -->
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Aman Developer Banner"/>
+  <img src="images/banner.png" width="100%" alt="Aman Developer Banner"/>
 </p>
 
 <p align="center">
