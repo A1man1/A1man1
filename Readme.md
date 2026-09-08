@@ -1,21 +1,42 @@
-<!-- Profile Banner -->
+<!-- macOS-style gradient banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1200&q=80" width="100%" height="180px" style="border-radius:10px;object-fit:cover;" alt="Aman Banner"/>
-</p>
-
-<h1 align="center">Hey 👋, I'm Aman Sharma</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+5%2B+Years+Experience;RAG+Data+Platforms+%7C+Semantic+Search+Optimization;LLM+Indexing+%26+Retrieval+Pipelines;Fine-Tuning+(PEFT%2C+LoRA%2C+QLoRA);Kafka+Processing+2M%2B+Events%2FDay" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2B64,100:0071E3&height=200&section=header&text=Aman%20Sharma&fontSize=48&fontColor=F5F5F7&fontAlignY=40&desc=Backend%20%26%20Data%20Engineer%20%7C%20LLM%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aman Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://bit.ly/3uN47lh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/A1man1" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://a1man1.github.io/A1man1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=18&pause=1000&color=0071E3&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+5%2B+Years+Experience;RAG+Data+Platforms+%7C+Semantic+Search+Optimization;LLM+Indexing+%26+Retrieval+Pipelines;Fine-Tuning+(PEFT%2C+LoRA%2C+QLoRA);Kafka+Processing+2M%2B+Events%2FDay" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://bit.ly/3uN47lh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-F5F5F7?style=flat-square&logo=linkedin&logoColor=0071E3" /></a>
+  <a href="https://github.com/A1man1" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-F5F5F7?style=flat-square&logo=github&logoColor=1D1D1F" /></a>
+  <a href="https://a1man1.github.io/A1man1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-F5F5F7?style=flat-square&logo=safari&logoColor=0071E3" /></a>
 </p>
 
 <p align="center"><sub><i>💡 Use dark mode to discover my hidden socials 😉</i></sub></p>
+
+---
+
+### 🖥️ whoami
+
+<!-- macOS Terminal window mockup -->
+<p align="center"><b>🔴 🟡 🟢 &nbsp; aman@macbook-pro — zsh</b></p>
+
+```bash
+aman@macbook-pro ~ % whoami --verbose
+```
+```yaml
+OS:              Backend & Data Engineer
+Shell:           Python (Django, FastAPI) · Java (Spring Boot)
+Experience:      5+ years
+Specialization:  RAG Data Platforms · Semantic Search · LLM Retrieval
+Fine-Tuning:     PEFT · LoRA · QLoRA
+Throughput:      Kafka pipelines, 2M+ events/day
+Scale:           Backend platforms serving 10K+ users
+Optimizations:   API latency -35% · Search query time -83%
+Currently:       Exploring deep neural nets & LLM internals
+LeetCode:        300+ problems solved
+```
 
 ---
 
@@ -68,45 +89,45 @@ Scalable design patterns, done right. I build with Python (Django, FastAPI), Jav
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack — Dock
 
 <div align="center">
 
 **🌐 Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" title="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="34" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" title="React"/>
 
 **⚙️ Backend & Frameworks**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="90" title="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38" title="Django"/>
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="86" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="34" title="Spring Boot"/>
 
 **🧠 AI / LLM & Data Intelligence**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" title="PyTorch"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" title="HuggingFace"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="35" title="Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="35" title="Elasticsearch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" title="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="34" title="PyTorch"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="34" title="HuggingFace"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="34" title="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="34" title="Elasticsearch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="34" title="Redis"/>
 
 **🧩 Databases & Cloud**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="38" title="Google Cloud"/>
 
 **🧰 Tools & Utilities**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" title="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>
 
@@ -117,14 +138,22 @@ Scalable design patterns, done right. I build with Python (Django, FastAPI), Jav
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A1man1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1man1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A1man1&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1man1&layout=compact&theme=graywhite&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=A1man1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=A1man1&theme=graywhite&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center"><i>🛠️ debug(failures) → ++knowledge, ++experience, --ego</i></p>
+<p align="center"><b>🔴 🟡 🟢 &nbsp; aman@macbook-pro — zsh</b></p>
+
+```bash
+aman@macbook-pro ~ % echo "while (age++ < life.length): ++knowledge; ++experience; --ego; debug(failures)"
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:1D2B64&height=100&section=footer" width="100%"/>
+</p>
