@@ -1,9 +1,5 @@
 <!-- Dark / NVIDIA-green developer banner (self-hosted — no external render service) -->
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Aman Banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=76B900&background=00000000&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+5%2B+Years+Experience;RAG+Data+Platforms+%7C+Semantic+Search+Optimization;LLM+Indexing+%26+Retrieval+Pipelines;Fine-Tuning+(PEFT%2C+LoRA%2C+QLoRA);Kafka+Processing+2M%2B+Events%2FDay" alt="Typing SVG" />
 </p>
 
